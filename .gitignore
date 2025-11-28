@@ -2,3 +2,4 @@
 /logs
 command-history-state.json
 config.json
+/session-state/*
